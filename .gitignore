@@ -6,7 +6,8 @@ target
 .project
 mvnw
 mvnw.cmd
-
+gradle/
+gradlew*
 
 
 .metadata
